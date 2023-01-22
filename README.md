@@ -17,7 +17,6 @@
   
 
  
-  ![Snake animation](https://github.com/NathanyFerres/NathanyFerres/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
